@@ -47,6 +47,7 @@
    <a href="#">
  <img src="https://github.com/aaronmor99/aaronmor99/blob/main/dev/languages/php.svg" alt="php" width="120" height="100%" style="vertical-align:top margin:6px 4px">
   </a>  
+  </br>
    <a href="#">
  <img src="https://github.com/aaronmor99/aaronmor99/blob/main/dev/languages/js.svg" alt="js" width="120" height="100%" style="vertical-align:top margin:6px 4px">
   </a>  
