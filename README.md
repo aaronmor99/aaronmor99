@@ -93,10 +93,10 @@
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="mailto:aaronmor99@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/aaronmor99/aaronmor99/blob/main/dev/social/gmail.svg" />
 </a>
 <a href="https://www.linkedin.com/in/aaronmoraleshermosin/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/aaronmor99/aaronmor99/blob/main/dev/social/linkedin.svg" />
 </br>
 </br>
 </br>
