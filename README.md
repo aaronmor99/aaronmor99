@@ -53,14 +53,15 @@
    <a href="#">
  <img src="https://github.com/aaronmor99/aaronmor99/blob/main/dev/languages/csharp.svg" alt="c#" width="120" hight="50">
   </a>  
-
+</br>
    <a href="#">
  <img src="https://github.com/aaronmor99/aaronmor99/blob/main/dev/frameworks/bootstrap.svg" alt="c#" width="120" hight="50">
   </a>  
      <a href="#">
  <img src="https://github.com/aaronmor99/aaronmor99/blob/main/dev/frameworks/laravel.svg" alt="c#" width="120" hight="50">
   </a>  
-     <a href="#">
+  </br>
+  <a href="#">
  <img src="https://github.com/aaronmor99/aaronmor99/blob/main/dev/tools/docker.svg" alt="c#" width="120" hight="50">
   </a>  
      <a href="#">
