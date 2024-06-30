@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - I'm 24 years  old Machine Learning & Artificial Intelligence Enthusiast from Seville.
+### - I'm 24 years  old FullStack developer from Seville.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
@@ -20,10 +20,10 @@
 - ✨ Generative Adversarial Networks
 
 ### - Hobbies : 
-- ✨ Gaming Addict
+- ✨ Make videogames 
+- ✨ Reading manga
 - ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+- ✨ Volleyball 
 
 </br>
 </br>
