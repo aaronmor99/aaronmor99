@@ -36,40 +36,40 @@
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
  <a href="#">
- <img src="https://github.com/aaronmor99/aaronmor99/blob/main/dev/languages/python.svg" alt="python" width="120" height="50" style="vertical-align:top margin:6px 4px">
+ <img src="https://github.com/aaronmor99/aaronmor99/blob/main/dev/languages/python.svg" alt="python" width="120" height="100%" style="vertical-align:top margin:6px 4px">
   </a>  
    <a href="#">
- <img src="https://github.com/aaronmor99/aaronmor99/blob/main/dev/languages/java.svg" alt="java" width="120" height="50" style="vertical-align:top margin:6px 4px">
+ <img src="https://github.com/aaronmor99/aaronmor99/blob/main/dev/languages/java.svg" alt="java" width="120" height="100%" style="vertical-align:top margin:6px 4px">
   </a>  
    <a href="#">
- <img src="https://github.com/aaronmor99/aaronmor99/blob/main/dev/languages/html.svg" alt="html" width="120" height="50" style="vertical-align:top margin:6px 4px">
+ <img src="https://github.com/aaronmor99/aaronmor99/blob/main/dev/languages/html.svg" alt="html" width="120" height="100%" style="vertical-align:top margin:6px 4px">
   </a>  
    <a href="#">
- <img src="https://github.com/aaronmor99/aaronmor99/blob/main/dev/languages/php.svg" alt="php" width="120" height="50" style="vertical-align:top margin:6px 4px">
+ <img src="https://github.com/aaronmor99/aaronmor99/blob/main/dev/languages/php.svg" alt="php" width="120" height="100%" style="vertical-align:top margin:6px 4px">
   </a>  
    <a href="#">
- <img src="https://github.com/aaronmor99/aaronmor99/blob/main/dev/languages/js.svg" alt="js" width="120" height="50" style="vertical-align:top margin:6px 4px">
+ <img src="https://github.com/aaronmor99/aaronmor99/blob/main/dev/languages/js.svg" alt="js" width="120" height="100%" style="vertical-align:top margin:6px 4px">
   </a>  
    <a href="#">
- <img src="https://github.com/aaronmor99/aaronmor99/blob/main/dev/languages/csharp.svg" alt="c#" width="120" height="50" style="vertical-align:top margin:6px 4px">
+ <img src="https://github.com/aaronmor99/aaronmor99/blob/main/dev/languages/csharp.svg" alt="c#" width="120" height="100%" style="vertical-align:top margin:6px 4px">
   </a>  
 </br>
    <a href="#">
- <img src="https://github.com/aaronmor99/aaronmor99/blob/main/dev/frameworks/bootstrap.svg" alt="c#" width="120" height="50" style="vertical-align:top margin:6px 4px">
+ <img src="https://github.com/aaronmor99/aaronmor99/blob/main/dev/frameworks/bootstrap.svg" alt="c#" width="120" height="100%" style="vertical-align:top margin:6px 4px">
   </a>  
      <a href="#">
- <img src="https://github.com/aaronmor99/aaronmor99/blob/main/dev/frameworks/laravel.svg" alt="c#" width="120" height="50" style="vertical-align:top margin:6px 4px">
+ <img src="https://github.com/aaronmor99/aaronmor99/blob/main/dev/frameworks/laravel.svg" alt="c#" width="120" height="100%" style="vertical-align:top margin:6px 4px">
   </a>  
   </br>
   <a href="#">
- <img src="https://github.com/aaronmor99/aaronmor99/blob/main/dev/tools/docker.svg" alt="c#" width="120" height="50" style="vertical-align:top margin:6px 4px">
+ <img src="https://github.com/aaronmor99/aaronmor99/blob/main/dev/tools/docker.svg" alt="c#" width="120" height="100%" style="vertical-align:top margin:6px 4px">
   </a>  
      <a href="#">
- <img src="https://github.com/aaronmor99/aaronmor99/blob/main/dev/tools/eclipse.svg" alt="c#" width="120" height="50" style="vertical-align:top margin:6px 4px">
+ <img src="https://github.com/aaronmor99/aaronmor99/blob/main/dev/tools/eclipse.svg" alt="c#" width="120" height="100%" style="vertical-align:top margin:6px 4px">
   </a>  
 
   <a href="#">
- <img src="https://github.com/aaronmor99/aaronmor99/blob/main/dev/tools/visualstudio_code.svg" alt="c#" width="120" height="50" style="vertical-align:top margin:6px 4px">
+ <img src="https://github.com/aaronmor99/aaronmor99/blob/main/dev/tools/visualstudio_code.svg" alt="c#" width="120" height="100%" style="vertical-align:top margin:6px 4px">
   </a>  
   
 
